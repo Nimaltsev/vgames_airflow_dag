@@ -1,4 +1,5 @@
-# vgames_airflow_dag
+# Videogames airflow dag
+
 This code creates dag for airflow which regularly checks:
 - The best selling game in the world
 - The best selling game genre
